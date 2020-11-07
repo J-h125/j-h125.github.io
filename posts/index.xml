@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New BLOG</title>
+    <link>http://www.wangjiahao.top/posts/</link>
+    <description>Recent content in Posts on My New BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sat, 07 Nov 2020 11:03:23 +0800</lastBuildDate><atom:link href="http://www.wangjiahao.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开博</title>
+      <link>http://www.wangjiahao.top/posts/%E5%BC%80%E5%8D%9A/</link>
+      <pubDate>Sat, 07 Nov 2020 11:03:23 +0800</pubDate>
+      
+      <guid>http://www.wangjiahao.top/posts/%E5%BC%80%E5%8D%9A/</guid>
+      <description>#Hello
+This is my first blog</description>
+    </item>
+    
+  </channel>
+</rss>
